@@ -1,0 +1,54 @@
+.photo-section{
+    background-image: url(/img/photo-grid.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 400px;
+    left:0;
+    right:0;
+}
+.button-signup{
+    background-color: black;
+}
+.existing-section a ,span{
+    text-decoration: none;
+    color: gray;
+}
+.form-section{
+    background-color: white;
+}
+
+.login-text{
+    color: black;
+}
+
+.form-container{
+    box-shadow: 10px 10px 15px -6px rgba(0,0,0,0.75);
+-webkit-box-shadow: 10px 10px 15px -6px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 15px -6px rgba(0,0,0,0.75);
+}
+.twitter{
+   border-radius:50%;
+   color: white;
+   background-color: #1DA1F2;;
+   height: 30px;
+   width: 30px;
+   
+}
+.facebook{
+    border-radius:50%;
+    color: white;
+    background-color: #0078FF;
+    height: 30px;
+    width: 30px;
+    
+ }
+a {
+    text-decoration: none;
+    outline: none;
+    color: white;
+}
+
+p{
+    color:#787878;
+}
