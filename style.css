@@ -1,5 +1,5 @@
 .photo-section{
-    background-image: url(/img/photo-grid.jpg);
+    background-image: url('img/photo-grid.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
